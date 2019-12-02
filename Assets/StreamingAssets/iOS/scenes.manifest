@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2995352040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5196841ed4f95722a44680f49bb98efd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleMagic/New Folder/ImagesTest2.unity
+- Assets/_MyAsset/_Scene/Scene2_Game.unity
+Dependencies:
+- /Users/tony/Tony/UNITY DEV/AssetBundleMagic/Assets/StreamingAssets/iOS/images.hd

@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 612208217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 857dfaf92b92b7539732621af28bce04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleMagic/Scenes/s3.unity
+Dependencies: []

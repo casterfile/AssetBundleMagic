@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AssetBundleMagic/Scenes/Scripts/Scene2_Game.cs">
+    <Files>
+      <File FileName="Assets/AssetBundleMagic/Scripts/AssetBundleMagic.cs" Line="1" Column="1" />
+      <File FileName="Assets/_MyAsset/_Script/OutputTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/AssetBundleMagic/Scenes/Scripts/BackToImagesTest.cs" Line="3" Column="19" />
+      <File FileName="Assets/_MyAsset/_Script/ChangeScene.cs" Line="3" Column="19" />
+      <File FileName="Assets/AssetBundleMagic/Scenes/Scripts/Scene2_Game.cs" Line="31" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
